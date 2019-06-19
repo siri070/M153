@@ -1,4 +1,4 @@
---CREATE DATABASE zahnarztpraxis;
+--CREATE DATABASE zahnarztpraxis_nachSpezialisierung;
 
 USE zahnarztpraxis_nachSpezialisierung;
  
